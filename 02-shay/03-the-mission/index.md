@@ -1,47 +1,13 @@
 ---
-title: The mission
+title: The rescue mission
 ---
 
-Marek gives you a very cool mission. Talk with him covering all points to get the Omicron Inhibitor and Star Chart to Prima Doom.
+Marek gives you a very cool rescue mission. Talk with him covering all points to get the Omicron Inhibitor and Star Chart to Prima Doom.
 
-# What things I have to do?
-You have to:
+He says you have to:
  - [Manually override the boom controls](010-boom-control.md)
  - [Manually control the shields](030-fusion-orb.md)
  - [Navigate the ship to Prima Doom](050-prima-doom.md)
 
-Lost control to the ship. Go to the vent to talk to Marek.
-
-Marek gives:
- - Omicron inhibitor (ask Marek about shield)
- - Star chart to Prima Doom
-
-Boom controls.
- Airlock is hacked so that you can access it.
-
-
-Shield control
- Omicron inhibitor (Marek fgives) over the shield orb and turn it off when the time is right.
-
- Getting to Fusion Orb
-  Middle teleporter.
-  Problem: Need a helmet on. (Is the head too big?)
-
-
-Prima doom
- Star chart to the weaver.
- Problem: He does not let you. It is not deemed safe! It needs to be overriden
-  Ask Marek why the weaver does not do it. "How are your knitting skills?"
-
-
-Third teleporter (Starboard passageway)
- Trash chute
-
-Airlock (with third teleporter and far right)
- Air hose is preventing leaving the platform.
- You need air (use the air tank on yourself with the space suit)
- Cut the air hose. With knife (from kitchen)
- Need some propulsion. Something that is spurting something. Whipped cream gun (from the avalanche mission). Whipped cream gun (from the avalanche mission). Attach it to space suit.
- Fly to the controls over the spiky tower.
- Open the hatch with knife.
- Use the Grabbing Gary to grab them so you can remote control them with the button.
+# I did all of those
+Great! Go talk to Marek. Save the creatures!
