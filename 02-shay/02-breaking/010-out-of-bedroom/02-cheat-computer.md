@@ -3,7 +3,7 @@ title: Cheating the computer
 keywords: computer, sleep, cheat
 ---
 
-You opened the [air vent](01-another-way-out.md) but she doesn't let you go into it.
+You opened the air vent but she doesn't let you go into it.
 
 # How can I cheat her?
 Maybe you could put a decoy you into the bed.
