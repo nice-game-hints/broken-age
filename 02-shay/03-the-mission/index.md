@@ -1,3 +1,7 @@
+---
+title: The mission
+---
+
 Lost control to the ship. Go to the vent to talk to Marek.
 
 Marek gives:
