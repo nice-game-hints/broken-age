@@ -7,7 +7,7 @@ One important part of the mission is to get access to the manual boom controls.
 The boom controls should be accessed _outside_ of the space ship. You can go through the airlock.
 
 # Airlock
-When you enter the airlock you are in space. [You just have to get up](020-space/index.md)
+When you enter the airlock you are in space. [You just have to get up](120-space/index.md)
 
 # I'm free!
 Guide yourself (by clicking) to the boom control. It is in the far left and you have to go over the spiky tower.
