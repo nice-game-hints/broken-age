@@ -2,7 +2,7 @@
 title: How to get a peach?
 ---
 
-There is [the peach tree](050-tree-path.md).
+There is [the peach tree](050-tree-path.md) in Meriloft.
 
 # Can't reach
 There is a low hanging fruit left of the tree. Go shake it.
