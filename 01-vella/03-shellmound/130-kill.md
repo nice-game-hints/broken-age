@@ -13,11 +13,11 @@ If you would just get one of your hands free.
 
 # How?
 Severe its limbs? Shoot **three** of its limbs out when you are free on the beach.
-![Shoot the limb][mog_chothra_limb.png]
+![Shoot the limb](mog_chothra_limb.png)
 
 # Did it!
 Great. But now its mouth is closed. You should open the mouth.
 
 # With what?
 Shove the ladder into its mouth and shoot it into the mouth!
-![Shooting with ladders][mog_chothra_shoot.png]
+![Shooting with ladders](mog_chothra_shoot.png)
