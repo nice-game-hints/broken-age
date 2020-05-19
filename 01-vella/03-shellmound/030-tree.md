@@ -9,4 +9,4 @@ The tree is trying to speak.
 Maybe you could hit it?
 
 # Hit it?
-With an axe ^[You find the axe from Curtis' house. On the wall.]
+With an ax ^[You find the ax from Curtis' house. On the wall.]
