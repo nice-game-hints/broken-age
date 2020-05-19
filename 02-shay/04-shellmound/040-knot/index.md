@@ -44,15 +44,17 @@ Use the following table to check that you have the correct description:
 # I think I got that right
 Good, this table will help you with the diagram:
 
-Steal the banana
-Tug on the piggy's tail
-Poke the clown in the eye
-Pull the finger
-Make the baby play patty-cake
-She loves me, she loves me not...
-Make the boat go under the bridge
-Pull apart the fighting snakes
-Tickle the foot
-Pull off the fly's wings
-Make the water come out of the cup
-Unravel the sweater
+| Diagram | Instruction |
+|------|:-----------:|
+| ![Banana](diagram_banana.png) | Steal the banana |
+| ![Baby](diagram_baby.png) | Make the baby play patty-cake |
+| ![Piggy](diagram_pig.png) | Tug on the piggy's tail |
+| ![Clown](diagram_clown.png) | Poke the clown in the eye |
+| ![Finger](diagram_pullfinger.png) | Pull the finger |
+| ![Love](diagram_loves.png) | She loves me, she loves me not... |
+| ![Boat](diagram_boat.png) | Make the boat go under the bridge |
+| ![Snakes](diagram_snakes.png) | Pull apart the fighting snakes |
+| ![Foot](diagram_tickle.png) | Tickle the foot |
+| ![Wings](diagram_wings.png) | Pull off the fly's wings |
+| ![Water](diagram_water.png) | Make the water come out of the cup |
+| ![Sweater](diagram_sweater.png) | Unravel the sweater |
