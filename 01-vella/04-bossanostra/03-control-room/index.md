@@ -11,7 +11,7 @@ First, you need to change your voice.
 Did you travel through a teleport already?
 
 # No?
-If you travel through a teleport ^[Talk to Marek first. You find him from where Shay left him.] your head gets bigger and your voice lower.
+If you travel through a teleport ^[Talk to Marek first to activate the teleports. You find him from where Shay left him.] your head gets bigger and your voice lower.
 
 # It is not big enough
 Travel twice through the teleports. The direction should be towards the teleport central point both times. Your head should now got bigger **twice**.
@@ -31,5 +31,5 @@ Please, can we not do this?
 # We have to!
 No, that is the correct answer. Just like Shay always said.
 
-# Last question!
+# Oh, last question!
 Now, you just have to guess what were Shay's [first space boots like](040-first-boots.md).

@@ -12,9 +12,9 @@ Look close. There are these items:
  - Note to shoe fairy ^[First he had Red/Striped and then Green/Skulls. After that he wanted Red/Skulls.]
  - Medical report ^[On age 6 his shoe size is +3 bigger than on age 5.]
  - Shoe sculpture ^[First boots at age 5. Dotted pattern.]
- - Teeth ^[Lost first teeth at age 6.]
+ - Teeth cup ^[Lost first teeth at age 6.]
  - Drawing ^[Age 8: Blue boots.]
- - Photo ^[Lost teeth. Show size is 7.]
+ - Photo ^[Lost teeth. Shoe size is 7.]
  - Trophy ^[Purple boots.]
 
 # Okay?
