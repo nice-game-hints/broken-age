@@ -32,7 +32,7 @@ First, did you describe the knot correctly to Carol?
 Use the following table to check that you have the correct description:
 
 | Knot | Description |
-|------|:-----------:|
+|:------|:-----------|
 | ![Two snakes](knot_snakes.png) | Two snakes fighting |
 | ![Like you](knot_like_you.png) | Little bit like Carol |
 | ![Mathematicl formula](knot_formula.png) | Mathematical formula |
@@ -45,7 +45,7 @@ Use the following table to check that you have the correct description:
 Good, this table will help you with the diagram:
 
 | Diagram | Instruction |
-|------|:-----------:|
+|:------|:-----------|
 | ![Banana](diagram_banana.png) | Steal the banana |
 | ![Baby](diagram_baby.png) | Make the baby play patty-cake |
 | ![Piggy](diagram_pig.png) | Tug on the piggy's tail |
