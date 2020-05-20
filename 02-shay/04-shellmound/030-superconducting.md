@@ -30,4 +30,4 @@ Mold should be tougher.
 It is made of sand. [Make the sand mold tougher.](035-hardening-mold.md)
 
 # It is ready!
-Get it to Curtis and you get the Superconducting Gyroscopic Hypercam. If Curtis does not accept your mold talk to him first about his current wizard mold. Show the final product to Alex.
+Get it to Curtis ^[If Curtis does not accept your mold talk to him first about his current wizard mold] and you get the Superconducting Gyroscopic Hypercam. Show the final product to Alex.
