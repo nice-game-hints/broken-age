@@ -1,9 +1,9 @@
 ---
-title: Bassinostra
+title: Bossa Nostra
 keywords: spaceship
 ---
 
-Vella is now in the spaceship Bassinostra.
+Vella is now in the spaceship Bossa Nostra.
 
 Items:
 
