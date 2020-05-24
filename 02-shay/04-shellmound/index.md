@@ -14,6 +14,7 @@ Items:
  - Peach from the bottom of the tree, ask Gus
  - Fruit tapper from Gus, just talk to him and ask for it
 
+Cupcake: buy it with money
 How to make the radiation suit?
 How to find the electric genius?
  - The Hexipal buddy (on the beach)
@@ -97,6 +98,8 @@ Grandpa is teaching the kid to fight
  - He has red frosting in his cane
  - The kid gives money
 
+ - The kid has the stick that is needed for the robes
+
 Jessie's egg
  - How to get it?
 
@@ -111,9 +114,11 @@ Gus
  - Where is the arcade?
  - Would the 3D thing be the Hypercam?
 
-Dads
+Dads (Husker, Walter)
  - Walt'r only eats the frosting.
  - Walt'r doesn't know where his wife is
+
+ - Give the cupcake to Walter
 
 Talking tree
  - Sap hardens things
