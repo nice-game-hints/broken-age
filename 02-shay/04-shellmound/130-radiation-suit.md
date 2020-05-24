@@ -24,4 +24,7 @@ Didn't Alex say that the Dead Eye Druids robes were looking suspiciously like ra
 Go find the druids! They are at the peach tree. They've gone nuts with the peach. Talk to them. [Get their robes](100-robes.md)
 
 # I got them!
-Give them to Twyla
+Give them to Twyla.
+
+# Feathers!
+Um, yeah. Well, give it to Alex.
