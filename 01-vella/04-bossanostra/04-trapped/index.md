@@ -15,7 +15,6 @@ Did you try the control sphere?
 The little locks will lock and unlock doors, the hexagons control the peripherals and the claw marker will control the claws.
 Lights can be shut down for a while with the little flower looking icons.
 Clicking the lightning markers cause small electric short circuits. You can move between the rooms with the arrows.
-![Controls](controls.png)
 
 # Okay, I fiddled with them, what now?
 There is the Hexi-gal in the far rightmost corridor room. If you short circuit the lightning icon near it, it will fix it.
