@@ -1,5 +1,5 @@
 ---
-title: Getting to control room
+title: Getting into the control room
 ---
 
 Shay's mother has locked all the doors and is not letting you in. Maybe you could fool her.
