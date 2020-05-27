@@ -1,5 +1,5 @@
 ---
-title: "Vella: Distract mother"
+title: Vella: Distract mother
 ---
 
 Shay's mother is controlling the ships arms and setting them to centralized control.
@@ -23,4 +23,4 @@ Did Shay already [get pass the hexipal tribe](040-pass-hexipals.md)?
 Then you should have a wiring for a harp-playing/tickling hexipal.
 
 # I do
-Wire Vella's hexipal to the same harp-playing wiring and put the hexipal in front of the NavScarf. You can now access the control room and press the red triangle button.
+Wire ^[You find an excess wire from Marekai's lair. On the computer.] Vella's hexipal to the same harp-playing wiring and put the hexipal in front of the NavScarf. You can now access the control room and press the red triangle button.
