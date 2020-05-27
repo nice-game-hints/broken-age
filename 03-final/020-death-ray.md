@@ -1,5 +1,5 @@
 ---
-title: "Vella: Shooting the death ray"
+title: Vella: Shooting the death ray
 ---
 
 You have the death ray remote control. Use it.

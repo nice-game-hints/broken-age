@@ -1,5 +1,5 @@
 ---
-title: "Shay: Getting down"
+title: Shay: Getting down
 ---
 
 Alex won't let you through the door.

@@ -1,5 +1,5 @@
 ---
-title: "Shay: Distract Alex"
+title: Shay: Distract Alex
 ---
 
 Alex tries to contact someone. If Vella tries the death ray, he will switch off the electric.

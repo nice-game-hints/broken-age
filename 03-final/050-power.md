@@ -1,5 +1,5 @@
 ---
-title: "Shay: Switching the power back on"
+title: Shay: Switching the power back on
 ---
 
 Alex will shut down the power if Vella tries the death ray.
