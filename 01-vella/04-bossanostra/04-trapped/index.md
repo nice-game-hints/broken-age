@@ -34,11 +34,7 @@ It also wants to show light in dark areas. You have to take the lights out also.
 # Show me!
 Here is a video how to do it.
 
-<figure class="video_container">
-	<video controls="true" allowfullscreen="true">
-		<source src="hexigal_timing.webm" type="video/webm" />
-	</video>
-</figure>
+@[local](hexigal_timing.webm)
 
 # Oh no!
 No worries. Go into the kitchen.
