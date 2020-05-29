@@ -1,5 +1,5 @@
 ---
-title: Shay: Getting pass the angry hexipals
+title: "Shay: Getting pass the angry hexipals"
 ---
 
 There are those ancient hexipals blocking your access to the switch.

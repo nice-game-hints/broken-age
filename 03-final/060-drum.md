@@ -1,5 +1,5 @@
 ---
-title: Shay: Playing the drum
+title: "Shay: Playing the drum"
 ---
 
 There is a fully working drum in the music room. It just needs a mallet.
