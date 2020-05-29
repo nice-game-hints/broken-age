@@ -1,5 +1,5 @@
 ---
-title: Vella: Distract mother
+title: "Vella: Distract mother"
 ---
 
 Shay's mother is controlling the ships arms and setting them to centralized control.
