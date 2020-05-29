@@ -1,5 +1,5 @@
 ---
-title: Shay: Getting the hexipal
+title: "Shay: Getting the hexipal"
 ---
 
 Rocky is dancing with the hexipal. She rewired it.
