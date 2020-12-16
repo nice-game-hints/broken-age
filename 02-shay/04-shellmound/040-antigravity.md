@@ -1,5 +1,5 @@
 ---
-title: Finding the eavy Duty Anti-Gravity Thrust Unit
+title: Finding the Heavy Duty Anti-Gravity Thrust Unit
 keywords: lightbeard, fthr, knot, meriloft
 ---
 
