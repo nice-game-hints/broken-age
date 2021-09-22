@@ -4,6 +4,7 @@ keywords: broken age, shay, vella
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
 praiseModal: h8
+depth: 2
 ---
 
 Welcome to spoiler free hints for Broken Age!
