@@ -13,9 +13,7 @@ When you enter the airlock you are in space. [You just have to get up](120-space
 Guide yourself (by clicking) to the boom control. It is in the far left and you have to go over the spiky tower.
 
 # Boom controls
-It is sealed with a hatch. Can you pry it open[^1]?
-
-[^1]: Use the knife from the kitchen to the hatch.
+It is sealed with a hatch. Can you pry it open ^[ Use the knife from the kitchen to the hatch. ]?
 
 # It is open
 Now, you would need to remote control the controls somehow.
