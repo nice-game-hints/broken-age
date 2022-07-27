@@ -3,7 +3,7 @@ title: Broken Age
 keywords: broken age, shay, vella
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
-praiseModal: h8
+praiseModal: h60
 depth: 2
 ---
 
